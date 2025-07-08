@@ -27,14 +27,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
+  <img src="logos/nextjs.png" height="40" alt="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="Tailwind CSS" />
   <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" height="40" alt="Django REST Framework" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" />
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="40" />
-<img src="https://gradio.app/assets/img/logo.png" height="40" alt="Gradio" style="background-color:white; border-radius:8px; padding:2px;" />
+<img src="logos/gradio.png" height="40" alt="Gradio" />
 
 
 </div>
@@ -57,8 +56,8 @@
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" />
-<img src="https://www.katk.dev/static/86f2f48b9b0dd900b4892f49f4bbab81/e4f06/logo.png" height="40" alt="Thunder Client" style="border-radius: 0px; padding: 0px;" />
-<img src="https://raw.githubusercontent.com/swagger-api/swagger-ui/master/docs/assets/logo.png" height="40" alt="Swagger UI" style="background-color: white; border-radius: 6px; padding: 2px;" />
+<img src="logos/thunderclient.png" height="40" alt="Thunder Client" />
+<img src="logos/swagger.png" height="40" alt="Swagger" />
 
 </div>
 
@@ -69,7 +68,7 @@
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="logos/github.png" height="40" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="Nginx" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
@@ -125,14 +124,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" />
   </a>
   <a href="https://github.com/bgvshiva2004" style="margin: 0 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
-  </a>
-  <a href="https://wa.me/918520844828" style="margin: 0 15px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" height="40" />
+    <img src="logos/github.png" height="40" alt="GitHub" />
   </a>
 </div>
-
----
 
 <div align="center">
 
