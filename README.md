@@ -117,7 +117,7 @@
 ## 🌐 Let's Connect 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/b-g-v-shiva-a3346426b/" style="margin: 0 15px;">
+  <a href="https://www.linkedin.com/in/bgvshiva/" style="margin: 0 15px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" />
   </a>
   <a href="mailto:bgvshiva@gmail.com" style="margin: 0 15px;">
