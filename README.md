@@ -3,6 +3,16 @@
 
 ---
 
+## 👨‍💻 About Me
+
+It all began with a simple `cout << "Hello World!";` — a moment that sparked a deep curiosity and gradually evolved into a passion for building scalable software, tackling complex problems, and occasionally yelling at semicolons;😅
+
+I’m currently pursuing a **B.Tech in Computer Science at IIT Indore (Batch of 2026)**, with a strong foundation in **backend and full-stack development**, complemented by **hands-on experience in machine learning**.
+
+Recently, I interned at **Samsung R&D Institute India – Bangalore** as a **Research Developer** and I'm always excited to explore new opportunities where I can **learn, contribute, and grow** — and maybe write some clean code along the way 🚀
+
+---
+
 ## 🛠️ Languages and Tools
 
 <div align="center">
